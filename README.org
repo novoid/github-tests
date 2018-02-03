@@ -13,3 +13,7 @@ Embed via HTML snippet containing an iframe like on publicvoit:
 #+BEGIN_EXPORT HTML
 <iframe width="560" height="315" src="http://www.youtube.com/embed/XHECZDy_ctg?rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 #+END_EXPORT
+
+Animated GIF:
+
+[[file:data/filetags.gif]]
