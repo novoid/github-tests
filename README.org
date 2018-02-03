@@ -1,3 +1,15 @@
 This is a simple GitHub repository to test certain issues/features.
 
 You are not really interested in this ;-)
+
+* Test for embedding videos to GitHub README.org files
+
+Just the YouTube link:
+
+https://www.youtube.com/watch?v=XHECZDy_ctg
+
+Embed via HTML snippet containing an iframe like on publicvoit:
+
+#+BEGIN_EXPORT HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/XHECZDy_ctg?rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+#+END_EXPORT
