@@ -28,7 +28,13 @@ YouTube link: https://www.youtube.com/watch?v=rckSVmYCH90
 
 YouTube image:
 
+raw:
+
 https://img.youtube.com/vi/rckSVmYCH90/0.jpg
+
+as link
+
+
 
 YouTube embed code:
 
