@@ -53,3 +53,22 @@ CCC embed in HTML block
 Animated GIF:
 
 [[file:data/filetags.gif]]
+
+* Test with emphasizing code snippets
+:PROPERTIES:
+:CREATED:  [2018-05-06 Sun 08:56]
+:END:
+
+: file without time stamp in name -- *tag2*.txt
+
+#+BEGIN_EXAMPLE
+file without time stamp in name -- *tag2*.txt
+#+END_EXAMPLE
+
+#+BEGIN_VERSE
+file without time stamp in name -- *tag2*.txt
+#+END_VERSE
+
+#+BEGIN_SRC
+file without time stamp in name -- *tag2*.txt
+#+END_SRC
