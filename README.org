@@ -59,12 +59,19 @@ Animated GIF:
 :CREATED:  [2018-05-06 Sun 08:56]
 :END:
 
+Tilde: ~foo *bar* baz~
+
+Code: =foo *bar* baz=
+
+Neutral: "foo *bar* baz"
+
 : comment file without time stamp in name -- *tag2*.txt
 
 #+BEGIN_EXAMPLE
 example file without time stamp in name -- *tag2*.txt
 #+END_EXAMPLE
 
+not on GitHub at all:
 #+BEGIN_VERSE
 verse file without time stamp in name -- *tag2*.txt
 verse file without time stamp in name -- *tag2*.txt
@@ -80,6 +87,7 @@ org-mode src file without time stamp in name -- *tag2*.txt
 org-mode src file without time stamp in name -- *tag2*.txt
 #+END_SRC
 
+not on GitHub at all:
 #+BEGIN_NOTES
 notes file without time stamp in name -- *tag2*.txt
 notes file without time stamp in name -- *tag2*.txt
