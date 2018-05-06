@@ -6,19 +6,19 @@ You are not really interested in this ;-)
 
 raw:
 
-[[file:data/2018-05-06T09.20.40 filetags demo slide for video preview -- screenshots.png]]
+[[file:data/2018-05-06 filetags demo slide for video preview -- screenshots.png]]
 
 advanced:
 
-[[data/2018-05-06T09.20.40 filetags demo slide for video preview -- screenshots.png]]
+[[data/2018-05-06 filetags demo slide for video preview -- screenshots.png]]
 
 image as link to video:
 
-[[https://media.ccc.de/v/GLT18_-_321_-_en_-_g_ap147_004_-_201804281550_-_the_advantages_of_file_name_conventions_and_tagging_-_karl_voit/][data/2018-05-06T09.20.40 filetags demo slide for video preview -- screenshots.png]]
+[[https://media.ccc.de/v/GLT18_-_321_-_en_-_g_ap147_004_-_201804281550_-_the_advantages_of_file_name_conventions_and_tagging_-_karl_voit/][data/2018-05-06 filetags demo slide for video preview -- screenshots.png]]
 
 with preview button:
 
-[[https://media.ccc.de/v/GLT18_-_321_-_en_-_g_ap147_004_-_201804281550_-_the_advantages_of_file_name_conventions_and_tagging_-_karl_voit/][data/2018-05-06T09.43.37 filetags demo slide for video preview with video button -- screenshots.png]]
+[[https://media.ccc.de/v/GLT18_-_321_-_en_-_g_ap147_004_-_201804281550_-_the_advantages_of_file_name_conventions_and_tagging_-_karl_voit/][data/2018-05-06 filetags demo slide for video preview with video button -- screenshots.png]]
 
 -------------
 
