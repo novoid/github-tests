@@ -65,6 +65,11 @@ Code: =foo *bar* baz=
 
 Neutral: "foo *bar* baz"
 
+File name examples in a list:
+- "time stamp in name -- *tag2*.txt"
+- "time stamp in name -- *tag2*.txt"
+- "time stamp in name -- *tag2*.txt"
+
 : comment file without time stamp in name -- *tag2*.txt
 
 #+BEGIN_EXAMPLE
