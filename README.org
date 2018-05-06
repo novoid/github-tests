@@ -59,16 +59,28 @@ Animated GIF:
 :CREATED:  [2018-05-06 Sun 08:56]
 :END:
 
-: file without time stamp in name -- *tag2*.txt
+: comment file without time stamp in name -- *tag2*.txt
 
 #+BEGIN_EXAMPLE
-file without time stamp in name -- *tag2*.txt
+example file without time stamp in name -- *tag2*.txt
 #+END_EXAMPLE
 
 #+BEGIN_VERSE
-file without time stamp in name -- *tag2*.txt
+verse file without time stamp in name -- *tag2*.txt
+verse file without time stamp in name -- *tag2*.txt
 #+END_VERSE
 
-#+BEGIN_SRC
-file without time stamp in name -- *tag2*.txt
+#+BEGIN_SRC org
+org src file without time stamp in name -- *tag2*.txt
+org src file without time stamp in name -- *tag2*.txt
 #+END_SRC
+
+#+BEGIN_SRC org-mode
+org-mode src file without time stamp in name -- *tag2*.txt
+org-mode src file without time stamp in name -- *tag2*.txt
+#+END_SRC
+
+#+BEGIN_NOTES
+notes file without time stamp in name -- *tag2*.txt
+notes file without time stamp in name -- *tag2*.txt
+#+END_NOTES
