@@ -1,0 +1,3 @@
+Let's see if GitHub is rendering README files in sub-directories as well.
+
+/This/ *is* _Org mode_.
