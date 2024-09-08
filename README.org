@@ -2,6 +2,12 @@ This is a simple GitHub repository to test certain issues/features.
 
 You are not really interested in this ;-)
 
+* test for 0dependencies logo
+
+ [[https://0dependencies.dev/0dependencies.svg][0 dependencies]]
+
+ [[https://0dependencies.dev/0dependencies.svg][https://0dependencies.dev/]]
+
 * Test for embedding videos to GitHub README.org files
 
 raw:
