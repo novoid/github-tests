@@ -8,11 +8,11 @@ You are not really interested in this ;-)
 
 [[https://0dependencies.dev/0dependencies.svg][https://0dependencies.dev/]]
 
-[[https://0dependencies.dev/0dependencies.svg]]
+Works but has no URL associated:
+
+[[https://0dependencies.dev/0dependencies.svg]] → [[https://0dependencies.dev/][learn more about 0dependencies]]
 
 https://0dependencies.dev/0dependencies.svg
-
-[[data/2018-05-06 filetags demo slide for video preview -- screenshots.png]]
 
 <img src="https://0dependencies.dev/0dependencies.svg">
 
