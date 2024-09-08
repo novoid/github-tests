@@ -12,11 +12,15 @@ You are not really interested in this ;-)
 
 https://0dependencies.dev/0dependencies.svg
 
-: [[data/2018-05-06 filetags demo slide for video preview -- screenshots.png]]
+[[data/2018-05-06 filetags demo slide for video preview -- screenshots.png]]
+
+<img src="https://0dependencies.dev/0dependencies.svg">
 
 #+BEGIN_EXPORT HTML
 <img src="https://0dependencies.dev/0dependencies.svg">
 #+END_EXPORT
+
+<a href="https://0dependencies.dev/"><img src="https://0dependencies.dev/0dependencies.svg"></a>
 
 #+BEGIN_EXPORT HTML
 <a href="https://0dependencies.dev/"><img src="https://0dependencies.dev/0dependencies.svg"></a>
