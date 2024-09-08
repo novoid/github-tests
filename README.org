@@ -4,9 +4,24 @@ You are not really interested in this ;-)
 
 * test for 0dependencies logo
 
- [[https://0dependencies.dev/0dependencies.svg][0 dependencies]]
+[[https://0dependencies.dev/0dependencies.svg][0 dependencies]]
 
- [[https://0dependencies.dev/0dependencies.svg][https://0dependencies.dev/]]
+[[https://0dependencies.dev/0dependencies.svg][https://0dependencies.dev/]]
+
+[[https://0dependencies.dev/0dependencies.svg]]
+
+https://0dependencies.dev/0dependencies.svg
+
+: [[data/2018-05-06 filetags demo slide for video preview -- screenshots.png]]
+
+#+BEGIN_EXPORT HTML
+<img src="https://0dependencies.dev/0dependencies.svg">
+#+END_EXPORT
+
+#+BEGIN_EXPORT HTML
+<a href="https://0dependencies.dev/"><img src="https://0dependencies.dev/0dependencies.svg"></a>
+#+END_EXPORT
+
 
 * Test for embedding videos to GitHub README.org files
 
