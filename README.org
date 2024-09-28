@@ -26,6 +26,21 @@ https://0dependencies.dev/0dependencies.svg
 <a href="https://0dependencies.dev/"><img src="https://0dependencies.dev/0dependencies.svg"></a>
 #+END_EXPORT
 
+--------
+
+from https://www.reddit.com/r/orgmode/comments/buhsue/handling_github_badges_in_org_file/?rdt=61433
+
+An example of Circle CI badge in Org: [[https://circleci.com/gh/akirak/emacs.d/tree/master][https://circleci.com/gh/akirak/emacs.d/tree/master.svg?style=svg]]
+
+MELPA: [[https://melpa.org/#/org-reverse-datetree][https://melpa.org/packages/org-reverse-datetree-badge.svg]]
+
+Travis CI: [[https://travis-ci.org/akirak/org-reverse-datetree][https://travis-ci.org/akirak/org-reverse-datetree.svg?branch=master]]
+
+#+macro: travis [[https://travis-ci.org/kaushalmodi/ox-hugo][https://travis-ci.org/kaushalmodi/ox-hugo.svg?branch=master]]
+#+macro: melpa [[https://melpa.org/#/ox-hugo][file:https://melpa.org/packages/ox-hugo-badge.svg]]
+#+macro: GPLv3 [[https://www.gnu.org/licenses/gpl-3.0][https://img.shields.io/badge/License-GPL%20v3-blue.svg]]
+
+{{{travis}}} {{{melpa}}} {{{GPLv3}}}
 
 * Test for embedding videos to GitHub README.org files
 
