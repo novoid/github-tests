@@ -4,43 +4,55 @@ You are not really interested in this ;-)
 
 * test for 0dependencies logo
 
-[[https://0dependencies.dev/0dependencies.svg][0 dependencies]]
+[[https://0dependencies.dev/0dependencies.svg][0 dependencies]] (no image)
 
-[[https://0dependencies.dev/0dependencies.svg][https://0dependencies.dev/]]
+[[https://0dependencies.dev/0dependencies.svg][https://0dependencies.dev/]]  (no image)
 
 Works but has no URL associated:
 
-[[https://0dependencies.dev/0dependencies.svg]] → [[https://0dependencies.dev/][learn more about 0dependencies]]
+[[https://0dependencies.dev/0dependencies.svg]] (image works, no link) → [[https://0dependencies.dev/][learn more about 0dependencies]]
 
-https://0dependencies.dev/0dependencies.svg
+https://0dependencies.dev/0dependencies.svg (no image)
 
-<img src="https://0dependencies.dev/0dependencies.svg">
+<img src="https://0dependencies.dev/0dependencies.svg"> (no image)
 
+ (no image)
 #+BEGIN_EXPORT HTML
 <img src="https://0dependencies.dev/0dependencies.svg">
 #+END_EXPORT
 
-<a href="https://0dependencies.dev/"><img src="https://0dependencies.dev/0dependencies.svg"></a>
+<a href="https://0dependencies.dev/"><img src="https://0dependencies.dev/0dependencies.svg"></a>  (no image)
 
+ (no image)
 #+BEGIN_EXPORT HTML
 <a href="https://0dependencies.dev/"><img src="https://0dependencies.dev/0dependencies.svg"></a>
 #+END_EXPORT
 
 --------
 
-from https://www.reddit.com/r/orgmode/comments/buhsue/handling_github_badges_in_org_file/?rdt=61433
+Ideas from https://www.reddit.com/r/orgmode/comments/buhsue/handling_github_badges_in_org_file/?rdt=61433
 
-An example of Circle CI badge in Org: [[https://circleci.com/gh/akirak/emacs.d/tree/master][https://circleci.com/gh/akirak/emacs.d/tree/master.svg?style=svg]]
+: An example of Circle CI badge in Org: [[https://circleci.com/gh/akirak/emacs.d/tree/master][https://circleci.com/gh/akirak/emacs.d/tree/master.svg?style=svg]] (*works*!)
 
-MELPA: [[https://melpa.org/#/org-reverse-datetree][https://melpa.org/packages/org-reverse-datetree-badge.svg]]
+An example of Circle CI badge in Org: [[https://circleci.com/gh/akirak/emacs.d/tree/master][https://circleci.com/gh/akirak/emacs.d/tree/master.svg?style=svg]] (*works*!)
 
-Travis CI: [[https://travis-ci.org/akirak/org-reverse-datetree][https://travis-ci.org/akirak/org-reverse-datetree.svg?branch=master]]
+MELPA: [[https://melpa.org/#/org-reverse-datetree][https://melpa.org/packages/org-reverse-datetree-badge.svg]] (works!)
+
+Travis CI: [[https://travis-ci.org/akirak/org-reverse-datetree][https://travis-ci.org/akirak/org-reverse-datetree.svg?branch=master]] (works!)
 
 #+macro: travis [[https://travis-ci.org/kaushalmodi/ox-hugo][https://travis-ci.org/kaushalmodi/ox-hugo.svg?branch=master]]
 #+macro: melpa [[https://melpa.org/#/ox-hugo][file:https://melpa.org/packages/ox-hugo-badge.svg]]
 #+macro: GPLv3 [[https://www.gnu.org/licenses/gpl-3.0][https://img.shields.io/badge/License-GPL%20v3-blue.svg]]
 
-{{{travis}}} {{{melpa}}} {{{GPLv3}}}
+{{{travis}}} {{{melpa}}} {{{GPLv3}}} → doesn't work at all
+
+------
+
+So this should do with image and URL:
+
+: [[https://0dependencies.dev][https://0dependencies.dev/0dependencies.svg]]
+
+[[https://0dependencies.dev][https://0dependencies.dev/0dependencies.svg]]
 
 * Test for embedding videos to GitHub README.org files
 
